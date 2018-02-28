@@ -1,6 +1,6 @@
 package com.prashanth.reporting.demo;
 
-import com.prashanth.reporting.ReportBuilder;
+import com.prashanth.reporting.generator.ReportBuilder;
 
 /**
  * @author Prashanth

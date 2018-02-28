@@ -1,4 +1,4 @@
-package com.prashanth.reporting;
+package com.prashanth.reporting.generator;
 
 import com.prashanth.reporting.listener.Listener;
 import com.prashanth.reporting.processor.Processor;
