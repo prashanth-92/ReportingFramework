@@ -1,3 +1,3 @@
 # ReportingFramework
-A Reporting framework in Java (Build with maven)
-No Dependency used. Written in native Java.
+A Reporting framework written in native Java (Build with maven).
+No external Dependencies. 
